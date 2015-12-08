@@ -1,36 +1,31 @@
-# Ignore list for Eagle, a PCB layout tool
+# Object files
+*.o
+*.ko
+*.obj
+*.elf
 
-# Backup files
-*.s#?
-*.b#?
-*.l#?
+# Precompiled Headers
+*.gch
+*.pch
 
-# Eagle project file
-# It contains a serial number and references to the file structure
-# on your computer.
-# comment the following line if you want to have your project file included.
-eagle.epf
+# Libraries
+*.lib
+*.a
+*.la
+*.lo
 
-# CAM files
-*.$$$
-*.cmp
-*.ly2
-*.l15
-*.sol
-*.plc
-*.stc
-*.sts
-*.crc
-*.crs
+# Shared objects (inc. Windows DLLs)
+*.dll
+*.so
+*.so.*
+*.dylib
 
-*.dri
-*.drl
-*.gpi
-*.pls
+# Executables
+*.exe
+*.out
+*.app
+*.i*86
+*.x86_64
+*.hex
+*.epf
 
-*.drd
-*.drd.*
-
-*.info
-
-*.eps
