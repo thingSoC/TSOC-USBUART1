@@ -11,7 +11,7 @@ These reference designs can serve as starting templates for user designs.
 and status LED's, as well as an "FTDI" pinout compatible connector.
 
 
-[![thingSoC TSOC-USBUART1](http://thingsoc.github.io/img/projects/TSOC-USBUART1/TSOC-USBUART1_top.png)  
+[![thingSoC TSOC-USBUART1](http://thingsoc.github.io/img/projects/TSOC-USBUART1/TSOC-USBUART1_top.png) 
 *TSOC-USBUART1*](https://github.com/thingSoC/TSOC-USBUART1)
 
 ---------------------------------------
@@ -24,5 +24,5 @@ and status LED's, as well as an "FTDI" pinout compatible connector.
 
 ---------------------------------------
 
-[![Image](http://thingsoc.github.io/img/projects/thingSoC/thingSoC_thumb.png?raw=true)  
+[![Image](http://thingsoc.github.io/img/projects/thingSoC/thingSoC_thumb.png?raw=true) 
 *thingSoC*](http://thingsoc.github.io)
