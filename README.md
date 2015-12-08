@@ -24,5 +24,5 @@ and status LED's, as well as an "FTDI" pinout compatible connector.
 
 ---------------------------------------
 
-[![Image](http://thingsoc.github.io/img/projects/thingSoC/thingSoC_thumb.png?raw=true) 
+[![thingSoC](http://thingsoc.github.io/img/projects/thingSoC/thingSoC_thumb.png?raw=true) 
 *thingSoC*](http://thingsoc.github.io)
