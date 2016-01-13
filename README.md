@@ -1,5 +1,4 @@
 # TSOC-USBUART1
-=============
 
 **TSOC-USBUART1** is a USB to UART Base Board **thingSoC Reference Design.** 
 
@@ -16,7 +15,27 @@ and status LED's, as well as an "FTDI" pinout compatible connector.
 
 ---------------------------------------
 
-## Documentation Index <a name="documentation_index"/>
+## TSOC-USBUART1 Status <a name="TSOC-USBUART1_status"/>
+
+**01/13/2016:** 
+Revision 3.1 - Revised USB ESD circuit to PA Standard USB2.0
+
+**01/13/2016:** 
+Revision 3.0 - NUF2221 ESD package pinout - PCB jumper with discrete resistors
+Tested at 9600, 115200, 256000, 921600, 1843200 Baud rates
+
+---------------------------------------
+
+## TSOC-USBUART1 Documentation Index <a name="TSOC-USBUART1_documentation_index"/>
+
+[TSOC-USBUART1 Project](http://thingsoc.github.io/projects/TSOC-USBUART1/)
+
+[TSOC-USBUART1 Hardware](https://github.com/thingSoC/TSOC-USBUART1/tree/master/TSOC-USBUART1/hardware)
+
+
+---------------------------------------
+
+## thingSoC Documentation Index <a name="thingSoC_documentation_index"/>
 
 [thingSoC Organization Website](http://thingSoC.github.io)
 
