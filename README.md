@@ -28,7 +28,7 @@ Tested at 9600, 115200, 256000, 921600, 1843200 Baud rates
 
 ## TSOC-USBUART1 Documentation Index <a name="TSOC-USBUART1_documentation_index"/>
 
-[TSOC-USBUART1 Project](http://thingsoc.github.io/projects/TSOC-USBUART1/)
+[TSOC-USBUART1 Project](http://thingsoc.github.io/projects/TSOC-USBUART1.html)
 
 [TSOC-USBUART1 Hardware](https://github.com/thingSoC/TSOC-USBUART1/tree/master/TSOC-USBUART1/hardware)
 
