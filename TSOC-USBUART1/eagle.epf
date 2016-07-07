@@ -1,17 +1,18 @@
 [Eagle]
 Version="06 06 00"
-Platform="Windows"
-Serial="700CBCE2DD-LSR-WLM-1CS"
+Platform="Linux"
+Serial="7212E3F38F-LSR-WLM-1CP"
 Globals="Globals"
 Desktop="Desktop"
 
 [Globals]
 AutoSaveProject=1
+UsedLibrary="/home/moxon/github/thingSoC/libraries/eagle6/lbr/thingSoC.lbr"
 
 [Win_1]
 Type="Schematic Editor"
 Loc="0 0 599 399"
-State=1
+State=0
 Number=2
 File="TSOC-USBUART1.sch"
 View="-6.11216 -4.84216 285.304 220.534"
@@ -53,16 +54,15 @@ ArcDirection=0
 AddLevel=2
 PadsSameType=0
 Layer=91
-Views=" 1: -6.11216 -4.84216 285.304 220.534"
 Sheet=1
 
 [Win_2]
 Type="Board Editor"
-Loc="381 -862 980 -463"
+Loc="0 0 599 399"
 State=1
 Number=1
 File="TSOC-USBUART1.brd"
-View="-1.74564 -1.0738 46.4085 27.4898"
+View="-1.74531 -0.6604 46.3917 27.0764"
 WireWidths=" 0 0.254 0.3048 0.6096 0.8128 1.016 1.27 1.4224 1.6764 1.778 1.9304 2.1844 2.54 3.81 6.4516 0.4064"
 PadDiameters=" 0.254 0.3048 0.4064 0.6096 0.8128 1.016 1.27 1.4224 1.6764 1.778 1.9304 2.1844 2.54 3.81 6.4516 0"
 PadDrills=" 0.5 0.6 0.7 0.9 1 1.1 1.2 1.3 1.4 1.5 1.6 2 2.2 2.8 3.2 0.8"
@@ -104,12 +104,12 @@ Layer=16
 
 [Win_3]
 Type="Control Panel"
-Loc="162 14 1439 859"
-State=2
+Loc="135 68 1771 992"
+State=1
 Number=0
 
 [Desktop]
-Screen="1920 1980"
+Screen="3840 1080"
 Window="Win_1"
 Window="Win_2"
 Window="Win_3"
